@@ -17,7 +17,8 @@
 | Repo 이름 | 설명 |
 |-----------|------|
 | `msa-study` | MSA 이론 정리 및 발표 자료 |
-| `msa-examples` | MSA 실습 예제 코드 (Spring, Docker, Kafka 등) |
+| `msa-examples` | MSA 실습 예제 코드 |
+| `msa-service` | MSA 실습 기반 서비스 개발 (Spring, Docker, Kafka 등) |
 
 > 각 주제별 상세 내용은 각 리포지토리의 README를 참고해주세요.
 
